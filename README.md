@@ -1,12 +1,8 @@
 # bluetooth_test_app
 
-A new Flutter project.
+A new Flutter project to test bluetooth funcitionalty in iOS and android.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-To run the app use flutter run --no-sound-null-safety
+## To run the app use flutter run --no-sound-null-safety
 
 A few resources to get you started if this is your first Flutter project:
 
